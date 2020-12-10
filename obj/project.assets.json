@@ -2343,30 +2343,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sdubos\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/sebastien/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\_Git\\Dotnet\\OilTraderAI\\OilTraderAI.csproj",
+      "projectUniqueName": "/Users/sebastien/_Git/Dotnet/OilTraderAI/OilTraderAI.csproj",
       "projectName": "OilTraderAI",
-      "projectPath": "c:\\_Git\\Dotnet\\OilTraderAI\\OilTraderAI.csproj",
-      "packagesPath": "C:\\Users\\sdubos\\.nuget\\packages\\",
-      "outputPath": "c:\\_Git\\Dotnet\\OilTraderAI\\obj\\",
+      "projectPath": "/Users/sebastien/_Git/Dotnet/OilTraderAI/OilTraderAI.csproj",
+      "packagesPath": "/Users/sebastien/.nuget/packages/",
+      "outputPath": "/Users/sebastien/_Git/Dotnet/OilTraderAI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sdubos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/sebastien/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2427,7 +2425,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }
