@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = OilTraderAI
+build_property.ProjectDir = /Users/sebastien/_Git/Dotnet/OilTraderAI/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
